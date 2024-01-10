@@ -40,6 +40,7 @@ Rent
 <span class="material-symbols-rounded" aria-hidden="true">real_estate_agent</span>
 
 Property type
+
 Any
 Houses
 Apartments
